@@ -19,23 +19,6 @@ This is a modified version of the classic card game "War." The program is a simp
 6. In the event of a tie, a "War" scenario occurs, leading to additional rounds.
 7. The game continues until one player runs out of cards or until the player decides to end the game.
 8. The player with the highest score at the end is declared the winner.
-   
-## **Code Structure**
-**Functions:**
-- cardDie(x, deckName): Prints the visual representation of a card.
-- generateDeckName(deckNumber): Returns the suit name based on the deck number.
-- warCard(word): Prints the visual representation of a war card.
-- cardValue(cardNumber): Returns the corresponding value (J, Q, K, A) for numeric card values.
-  
-**Game Loop:**
-- The program runs in a loop until the player decides not to play again.
-- Allows for both single and two-player modes.
-- Implements card drawing, scoring, and "War" scenarios.
-
-## **Usage**
-- Ensure you have a Python environment installed.
-- Run the code.
-- Follow the on-screen prompts to set up the game and make your moves.
   
 ## **Future Improvements**
 - Add more features such as a graphical user interface (GUI) for a better gaming experience.
