@@ -42,11 +42,11 @@ Press enter to intitiate the dealing:
 The cards are being dealt...
 Please wait...
 +----------------+
-|4  		        |
+|4  		 |
 |                |
 |                |
 |                |
-|     Spades	  |
+|     Spades	 |
 |                |
 |                |
 |                |
@@ -55,11 +55,11 @@ Please wait...
 
 Computer's Turn: 
 +----------------+
-|A  		        |
+|A  		 |
 |                |
 |                |
 |                |
-|     Clubs	     |
+|     Clubs	 |
 |                |
 |                |
 |                |
@@ -75,11 +75,11 @@ Press enter to intitiate the dealing:
 The cards are being dealt...
 Please wait...
 +----------------+
-|3  		        |
+|3  		 |
 |                |
 |                |
 |                |
-|     Spades	  |
+|     Spades	 |
 |                |
 |                |
 |                |
@@ -88,11 +88,11 @@ Please wait...
 
 Computer's Turn: 
 +----------------+
-|A  		        |
+|A  		 |
 |                |
 |                |
 |                |
-|     Clubs	     |
+|     Clubs	 |
 |                |
 |                |
 |                |
